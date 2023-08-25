@@ -1,0 +1,57 @@
+h1{
+    color:#0a0a0a;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+img.full-wide{
+    height:400px;
+    width:1000px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+img.lillyput{
+    height:150px ;
+    width:270px ;
+}
+div{
+    border:2px solid;
+    margin:10px;
+    padding:5px ;
+}
+div.boxa{
+    position: relative;
+    height: 600px;
+    width: 300px;
+    
+}
+div.boxb{
+    position: relative;
+    left:400px;
+    top:-620px;
+    height: 600px;
+    width: 300px;
+    
+}
+div.boxc{
+    position: relative;
+    left:800px;
+    top:-1240px;
+    height: 600px;
+    width: 300px;
+    
+}
+.topnav{
+    background-color: rgb(7, 236, 198);
+}
+.topnav a{
+    color: #000;
+    background-color: rgb(7, 236, 198);
+}
+.topnav a :hover{
+    color:red;
+    background-color: aliceblue;
+}
+*{
+    background-color: rgb(171, 212, 206);
+}
